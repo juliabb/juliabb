@@ -1,7 +1,9 @@
-- 👋 Olá, eu sou @juliabb
-- 👀 Estou interessada em Desenvolvimento Front-end.
-- 🌱 Atualmente estou aprendendo HTLM, CSS, Javascript, Bootstrap.
-- 💞️ Estou procurando colaborar na experiência do usuário.
+- 👋 Olá, eu sou @juliabb e tenho 21 anos.
+- 👀 Estou estudando para me tornar Desenvolvedora Front-end.
+- 👩‍🏫 Atualmente estou fazendo um curso de Produção e Design para Web no Senac Penha.
+- 👩‍🎓 Formada em Análise e Desenvolvimento de sistemas. 
+- 🌱 Atualmente estou aprendendo HTLM5, CSS3, Javascript (com cursos da Digital Innovation One e Cursos em vídeo do mestre Gustavo Guanabara).
+- 🖥️ Também gosto de edição e criação de imagens (pode me achar no Instagram link está logo abaixo).
 - 📫 Como me achar?
 
 Linkedin > https://www.linkedin.com/in/julia-cruz-7aa339183/
@@ -13,11 +15,13 @@ E-mail > juliabenedicto@hotmail.com
 ------------------------------------------------------------------------------------------------------------------
 English translation:
 
-- 👋 Hi, I’m @juliabb
-- 👀 I'm interested in Front-end Development.
-- 🌱 I'm currently learning HTLM, CSS, Javascript, Bootstrap.
-- 💞️ I'm looking for contributor on user experience.
-- 📫 How to reach me?
+- 👋 Hi, I'm @juliabb and I'm 21 years old.
+- 👀 I am studying to become a Front-end Developer.
+- 👩‍🏫 I am currently taking a course in Production and Design for Web at Senac Penha.
+- 👩‍🎓 Graduated in Systems Analysis and Development.
+- 🌱 I am currently learning HTLM5, CSS3, Javascript (with courses from Digital Innovation One and Video Courses by master Gustavo Guanabara).
+- 🖥️ I also like editing and creating images (you can find me on Instagram link is right below).
+- 📫 How to find me?
 
 Linkedin > https://www.linkedin.com/in/julia-cruz-7aa339183/
 
