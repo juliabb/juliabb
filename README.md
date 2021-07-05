@@ -12,6 +12,10 @@ Instagram > https://www.instagram.com/jbed.it/
 
 E-mail > juliabenedicto@hotmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliabb&layout=compact)](https://github.com/juliabb)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliabb&show_icons=true&theme=radical)
+
 ------------------------------------------------------------------------------------------------------------------
 English translation:
 
