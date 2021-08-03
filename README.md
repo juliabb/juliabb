@@ -3,10 +3,10 @@
 <p align="center"><a href="https://octodex.github.com/femalecodertocat/" target="_blank"> <img src="https://octodex.github.com/images/femalecodertocat.png" alt="Femalecodertocat" width="250" height="250"></a></p>
 
 - 🙋‍♀️ Tenho 21 anos.
-- 👀 Estou estudando para me tornar Desenvolvedora Front-end.
+- 👀 Estou estudando para me tornar Desenvolvedora Frontend.
 - 👩‍🎓 Formada em Análise e Desenvolvimento de sistemas. 
-- 🌱 Atualmente estou aprendendo HTLM5, CSS3, Javascript (com cursos da Digital Innovation One e Cursos em vídeo do mestre Gustavo Guanabara).
-- 🖥️ Também gosto de edição e criação de imagens.
+- 🌱 Atualmente estou aprendendo HTLM5, CSS3, Javascript (com cursos da Digital Innovation One e do Curso em vídeo do professor Gustavo Guanabara).
+- 🖥️ Também gosto de praticar edição de imagens e criação de layouts.
 
 -------------------------------------------------------------------------------------------------------
 
