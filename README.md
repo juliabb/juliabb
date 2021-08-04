@@ -1,11 +1,11 @@
-<h1 align="center">👋 Olá, eu sou Julia Benedicto.</h1> 
+<h1 align="center"><img src="https://ik.imagekit.io/dxszffuuh8/wave_tObQfF_Zn.gif" height=30px width=30px> Olá, eu sou Julia Benedicto.</h1> 
 
 <p align="center"><a href="https://octodex.github.com/femalecodertocat/" target="_blank"> <img src="https://octodex.github.com/images/femalecodertocat.png" alt="Femalecodertocat" width="250" height="250"></a></p>
 
 - 🙋‍♀️ Tenho 21 anos.
 - 👀 Estou estudando para me tornar Desenvolvedora Frontend.
 - 👩‍🎓 Formada em Análise e Desenvolvimento de sistemas. 
-- 🌱 Atualmente estou aprendendo HTLM5, CSS3, Javascript (com cursos da Digital Innovation One e do Curso em vídeo do professor Gustavo Guanabara).
+- 🌱 Atualmente estou aprendendo HTLM5, CSS3, Javascript.
 - 🖥️ Também gosto de praticar edição de imagens e criação de layouts.
 
 -------------------------------------------------------------------------------------------------------
