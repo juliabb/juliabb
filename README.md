@@ -18,7 +18,7 @@
 <details open align="center">
   <br>
     <summary>⚙ <b>Estatísticas do GitHub</b>: </summary>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliabb&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="juliabb" width="495" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliabb&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="juliabb" width="495"/></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=julia&show_icons=true&locale=pt-br&theme=tokyonight" alt="juliabb" /></p>
 
@@ -28,8 +28,10 @@
 <h3 align="center">Social:</h3>
 <p align="center">E-mail 📫 <a href="mailto:juliabenedicto@hotmail.com" title="enviar e-mail">juliabenedicto@hotmail.com</p>
 <p align="center">
-<a href="https://www.linkedin.com/in/julia-cruz-7aa339183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Julia-Benedicto" height="30" width="40" /></a>
-<a href="https://instagram.com/jbed.it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Julia-Benedicto" height="30" width="40" /></a>
+  
+<a href="https://steamcommunity.com/id/jukiabb/" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a> <a href="https://open.spotify.com/user/juliabenedictohfvcjd?si=c315a21832f94d5e" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a> <a href="https://www.linkedin.com/in/julia-cruz-7aa339183/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Julia-Benedicto"></a> <a href="https://instagram.com/jbed.it" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Julia-Benedicto"></a>
 </p>
  
   ![Snake animation](https://github.com/juliabb/juliabb/blob/output/github-contribution-grid-snake.svg)
+  
+   
