@@ -32,4 +32,5 @@
 <a href="https://instagram.com/jbed.it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Julia-Benedicto" height="30" width="40" /></a>
 </p>
  
+   ![Snake animation](https://github.com/juliabb/juliabb/blob/output/github-contribution-grid-snake.svg)
 
