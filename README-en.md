@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://ik.imagekit.io/dxszffuuh8/wave_tObQfF_Zn.gif" height=30px width=30px> Hi I'm Julia Benedicto.</h1>
 
-<a href="https://github.com/juliabb" target="_blank"><p>Veja em português</a></p>
+<a href="https://github.com/juliabb" target="_blank"><p align="center">Veja em português</a></p>
                  
 
 <p align="center"><a href="https://octodex.github.com/femalecodertocat/" target="_blank"> <img src="https://octodex.github.com/images/femalecodertocat.png" alt="Femalecodertocat" width="250" height="250"></a></p>
@@ -24,7 +24,7 @@
     <summary>⚙ <b>GitHub Statistics</b>: </summary>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliabb&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="juliabb" width="495"/></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=julia&show_icons=true&locale=pt-br&theme=tokyonight" alt="juliabb" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=juliabb&show_icons=true&locale=pt-br&theme=tokyonight" alt="juliabb" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juliabb&theme=tokyonight" alt="juliabb" /></p>
 
