@@ -5,7 +5,7 @@
 
 <p align="center"><a href="https://octodex.github.com/femalecodertocat/" target="_blank"> <img src="https://github.com/juliabb/juliabb/blob/main/my-octocat-1632426748808.png?raw=true" alt="Femalecodertocat" width="250" height="250"></a></p>
 
-- 🙋‍♀️ I'm 21 years old.
+- 🙋‍♀️ I'm 22 years old.
 - 👀 I am studying to become a Frontend Developer.
 - 👩‍🎓 Graduated in Systems Analysis and Development.
 - 🌱 I am currently learning HTLM5, CSS3 and Javascript.
