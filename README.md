@@ -1,14 +1,13 @@
-<h1 align="center"><img src="https://ik.imagekit.io/dxszffuuh8/wave_tObQfF_Zn.gif" height=30px width=30px> Olá, eu sou Julia Benedicto.</h1>
+<h1 align="center"><img src="https://ik.imagekit.io/dxszffuuh8/wave_tObQfF_Zn.gif" height=30px width=30px> Olá, eu me chamo Julia Benedicto</h1>
 
-<a href="https://github.com/juliabb/juliabb/blob/main/README-en.md" target="_blank"><p align="center">See in English</a></p>
-                 
+<a href="https://github.com/juliabb/juliabb/blob/main/README-en.md" target="_blank"><p align="center">See in English <img src="https://media.istockphoto.com/photos/flag-of-england-picture-id854115776?k=20&m=854115776&s=612x612&w=0&h=Q9umhsdZxyIQbyU7rS1cXON304Dmo4uRbcgj46WbL5A=" alt="bandeira inglesa" height=20px width=30px> </a>
 
 <p align="center"><a href="https://myoctocat.com/" target="_blank"> <img src="https://github.com/juliabb/juliabb/blob/main/my-octocat-1632426748808.png?raw=true" alt="Femalecodertocat" width="250" height="250"></a></p>
 
-- 🙋‍♀️ Tenho 22 anos.
-- 👀 Estou estudando para me tornar Desenvolvedora Frontend.
+- 🙋‍♀️ Tenho 22 anos
+- 👀 Desenvolvedora Frontend
 - 👩‍🎓 Formada em Análise e Desenvolvimento de sistemas. 
-- 🌱 Atualmente estou aprendendo HTLM5, CSS3, Javascript.
+- 🌱 HTLM5 | CSS3 | Javascript
 - 🖥️ Também gosto de praticar edição de imagens e criação de layouts.
 
 -------------------------------------------------------------------------------------------------------
