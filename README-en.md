@@ -1,15 +1,15 @@
-<h1 align="center"><img src="https://ik.imagekit.io/dxszffuuh8/wave_tObQfF_Zn.gif" height=30px width=30px> Hi I'm Julia Benedicto.</h1>
+<h1 align="center"><img src="https://ik.imagekit.io/dxszffuuh8/wave_tObQfF_Zn.gif" height=30px width=30px> Hello, my name is Julia Benedicto</h1>
 
-<a href="https://github.com/juliabb" target="_blank"><p align="center">Veja em português</a></p>
+<a href="https://github.com/juliabb" target="_blank"><p align="center">Veja em português  <img src="https://imagepng.org/wp-content/uploads/2017/04/bandeira-do-brasil-1-1024x717.png" alt="bandeira brasileira" height=20px width=30px></a></p>
                  
 
 <p align="center"><a href="https://octodex.github.com/femalecodertocat/" target="_blank"> <img src="https://github.com/juliabb/juliabb/blob/main/my-octocat-1632426748808.png?raw=true" alt="Femalecodertocat" width="250" height="250"></a></p>
 
-- 🙋‍♀️ I'm 22 years old.
-- 👀 I am studying to become a Frontend Developer.
-- 👩‍🎓 Graduated in Systems Analysis and Development.
-- 🌱 I am currently learning HTLM5, CSS3 and Javascript.
-- 🖥️ I also like to practice image editing and layout creation.
+- 🙋‍♀️ I'm 22 years old
+- 👀 Frontend Developer
+- 👩‍🎓 Graduated in Systems Analysis and Development
+- 🌱 HTLM5 | CSS3 | Javascript
+- 🖥️ I also like to practice image editing and layout creation
 
 -------------------------------------------------------------------------------------------------------
 
