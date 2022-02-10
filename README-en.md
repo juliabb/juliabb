@@ -23,9 +23,9 @@
 <details open align="center">
   <br>
     <summary>⚙ <b>GitHub Statistics</b>: </summary>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliabb&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="juliabb" width="495"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliabb&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="juliabb" width="495"/></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=juliabb&show_icons=true&locale=pt-br&theme=tokyonight" alt="juliabb" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=juliabb&show_icons=true&locale=en&theme=tokyonight" alt="juliabb" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juliabb&theme=tokyonight" alt="juliabb" /></p>
 
