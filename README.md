@@ -6,15 +6,53 @@
 
 - 🙋‍♀️ Tenho 22 anos
 - 👀 Desenvolvedora Frontend
+- 👩‍💻 Estudante de desenvolvimento Web na Laboratória Brasil
 - 👩‍🎓 Formada em Análise e Desenvolvimento de sistemas. 
-- 🌱 HTLM5 | CSS3 | Javascript
-- 🖥️ Também gosto de praticar edição de imagens e criação de layouts.
+- 🌱 HTLM5 | CSS3 | Javascript | Node.js | Jest
+- 🖥️ Também gosto de praticar edição de imagens e criação de layouts
+
+<div>
+<p align= "center">Número de visitantes</p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{juliabb}/count.svg" /></p> 
+
+</div>
 
 -------------------------------------------------------------------------------------------------------
 
 <h3 align="center"><b>Habilidades e Ferramentas:</b></h3>
 
-<p align="center"><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"></a> <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"></a> <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"></a> <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"></a> <a href="https://www.adobe.com/br/products/illustrator.html?sdid=KQPNY&mv=search&ef_id=CjwKCAjw0qOIBhBhEiwAyvVcf8KtXH9dMmmx21sNKxYjzzHeGuslIaem42QrA809gsWF3xo9Q-c1oxoC21IQAvD_BwE:G:s&s_kwcid=AL!3085!3!442396626641!e!!g!!illustrator!188190582!10039578942&gclid=CjwKCAjw0qOIBhBhEiwAyvVcf8KtXH9dMmmx21sNKxYjzzHeGuslIaem42QrA809gsWF3xo9Q-c1oxoC21IQAvD_BwE" target="_blank"><img src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" alt="Illustrator" width="50" height="50"></a></p>
+<div style="display: inline_block" align="center">
+
+  <img align="center"  alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center"  alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img align="center"  alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center"  alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg"> 
+   <img align="center" alt="Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/wordpress/wordpress-original.svg"> 
+    <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original-wordmark.svg"> 
+    <img align="center" alt="Codepen" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/codepen/codepen-original-wordmark.svg"> 
+  
+   <img align="center" alt="Visual Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original-wordmark.svg"> 
+  <img align="center" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ubuntu/ubuntu-plain-wordmark.svg"> 
+  
+  <img align="center"  alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/canva/canva-original.svg"> 
+  
+   <img align="center" alt="Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-line.svg"> 
+  <img align="center" alt="Illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/illustrator/illustrator-line.svg"> 
+  
+ 
+ 
+ 
+
+  
+  
+  
+  
+ 
+   
+</div>
 
 <br>
 
