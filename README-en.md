@@ -7,17 +7,44 @@
 
 - 🙋‍♀️ I'm 22 years old
 - 👀 Frontend Developer
+- 👩‍💻 Web development student at Laboratoria Brasil -  [ < LAB > ](https://pages.github.com/)
 - 👩‍🎓 Graduated in Systems Analysis and Development
-- 🌱 HTLM5 | CSS3 | Javascript
+- 🌱 HTLM5 | CSS3 | Javascript | Node.js | Jest
 - 🖥️ I also like to practice image editing and layout creation
+
+<div>
+<p align= "center">Number of visitors</p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{juliabb}/count.svg" /></p> 
+
+</div>
 
 -------------------------------------------------------------------------------------------------------
 
 <h3 align="center"><b>Skills and Tools:</b></h3>
 
-<p align="center"><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"></a> <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"></a> <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"></a> <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"></a> <a href="https://www.adobe.com/br/products/illustrator.html?sdid=KQPNY&mv=search&ef_id=CjwKCAjw0qOIBhBhEiwAyvVcf8KtXH9dMmmx21sNKxYjzzHeGuslIaem42QrA809gsWF3xo9Q-c1oxoC21IQAvD_BwE:G:s&s_kwcid=AL!3085!3!442396626641!e!!g!!illustrator!188190582!10039578942&gclid=CjwKCAjw0qOIBhBhEiwAyvVcf8KtXH9dMmmx21sNKxYjzzHeGuslIaem42QrA809gsWF3xo9Q-c1oxoC21IQAvD_BwE" target="_blank"><img src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" alt="Illustrator" width="50" height="50"></a></p>
+<div style="display: inline_block" align="center">
 
+  <img align="center"  alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center"  alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img align="center"  alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center"  alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg"> 
+   <img align="center" alt="Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/wordpress/wordpress-original.svg"> 
+    <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original-wordmark.svg"> 
+    <img align="center" alt="Codepen" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/codepen/codepen-original-wordmark.svg"> 
+  
+   <img align="center" alt="Visual Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original-wordmark.svg"> 
+  <img align="center" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ubuntu/ubuntu-plain-wordmark.svg"> 
+  
+  <img align="center"  alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/canva/canva-original.svg"> 
+  
+   <img align="center" alt="Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-line.svg"> 
+  <img align="center" alt="Illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/illustrator/illustrator-line.svg"> 
 
+</div>
+  
 <br>
 
 <details open align="center">
@@ -35,10 +62,9 @@
 <a href="mailto:juliabenedicto@hotmail.com" title="send email"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 <p align="center">
   
-<a href="https://www.linkedin.com/in/julia-cruz-7aa339183/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Julia-Benedicto"></a> <a href="https://instagram.com/jbed.it" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Julia-Benedicto"></a> <a href="https://codepen.io/juliabb-cruz/" target="blank"><img src="https://camo.githubusercontent.com/d94d79dd5abfc7bc5f640fd0d6ad275b8eeaca341af8ece6dc6b0159d637d68e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f646570656e2d2532333133313431372e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d636f646570656e266c6f676f436f6c6f723d7768697465" alt="codepen" data-canonical-src="https://img.shields.io/badge/codepen-%23131417.svg?&amp;style=for-the-badge&amp;logo=codepen&amp;logoColor=white" style="max-width: 100%;"></a>  
+<a href="https://www.linkedin.com/in/julia-cruz-7aa339183/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Julia-Benedicto"></a> <a href="https://instagram.com/jbed.it" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Julia-Benedicto"></a> 
 
-  <a href="https://steamcommunity.com/id/jukiabb/" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a> <a href="https://open.spotify.com/user/juliabenedictohfvcjd?si=c315a21832f94d5e" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  </p>
+
  
   ![Snake animation](https://github.com/juliabb/juliabb/blob/output/github-contribution-grid-snake.svg)
   
