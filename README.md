@@ -6,7 +6,7 @@
 
 - 🙋‍♀️ Tenho 22 anos
 - 👀 Desenvolvedora Frontend
-- 👩‍💻 Estudante de desenvolvimento Web na Laboratória Brasil
+- 👩‍💻 Estudante de desenvolvimento Web na Laboratória Brasil -  [ < LAB > ](https://pages.github.com/)
 - 👩‍🎓 Formada em Análise e Desenvolvimento de sistemas. 
 - 🌱 HTLM5 | CSS3 | Javascript | Node.js | Jest
 - 🖥️ Também gosto de praticar edição de imagens e criação de layouts
@@ -41,16 +41,6 @@
   
    <img align="center" alt="Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-line.svg"> 
   <img align="center" alt="Illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/illustrator/illustrator-line.svg"> 
-  
- 
- 
- 
-
-  
-  
-  
-  
- 
    
 </div>
 
@@ -71,9 +61,6 @@
 <a href="mailto:juliabenedicto@hotmail.com" title="send email"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 <p align="center">
   
-<a href="https://www.linkedin.com/in/julia-cruz-7aa339183/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Julia-Benedicto"></a> <a href="https://instagram.com/jbed.it" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Julia-Benedicto"></a> <a href="https://codepen.io/juliabb-cruz/" target="blank"><img src="https://camo.githubusercontent.com/d94d79dd5abfc7bc5f640fd0d6ad275b8eeaca341af8ece6dc6b0159d637d68e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f646570656e2d2532333133313431372e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d636f646570656e266c6f676f436f6c6f723d7768697465" alt="codepen" data-canonical-src="https://img.shields.io/badge/codepen-%23131417.svg?&amp;style=for-the-badge&amp;logo=codepen&amp;logoColor=white" style="max-width: 100%;"></a>  
-
-  <a href="https://steamcommunity.com/id/jukiabb/" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a> <a href="https://open.spotify.com/user/juliabenedictohfvcjd?si=c315a21832f94d5e" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  </p>
+<a href="https://www.linkedin.com/in/julia-cruz-7aa339183/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Julia-Benedicto"></a> <a href="https://instagram.com/jbed.it" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Julia-Benedicto"></a> 
  
   ![Snake animation](https://github.com/juliabb/juliabb/blob/output/github-contribution-grid-snake.svg)
