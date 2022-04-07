@@ -72,4 +72,4 @@
  
   ![Snake animation](https://github.com/juliabb/juliabb/blob/output/github-contribution-grid-snake.svg)
   
-   
+  <img align="center" width="150" src="https://lh3.googleusercontent.com/pw/AM-JKLUNe5TJN0uESaNN1RKUN6LvnWgIn3KaFg_zLr8fhXkYCQsSDhxg1gkw-PZPIY_Y4tWb5A9rd4O1bPNhe2cBq5U4OjejyTuQOIswmxpayHTDcRJTFGb9ef761JBmkmnxdr2hHxRx8I4g3LN6siHqTV_H_w=s500-no?authuser=0" />  
