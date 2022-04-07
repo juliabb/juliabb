@@ -1,4 +1,8 @@
-<h1 align="center"><img src="https://ik.imagekit.io/dxszffuuh8/wave_tObQfF_Zn.gif" height=30px width=30px> Olá, eu me chamo Julia Benedicto</h1>
+<div align="center"> 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=4000&color=7713F7&center=true&multiline=true&width=600&height=100&lines=Ol%C3%A1!!+Eu+me+chamo+Julia+Benedicto%2C;eu+sou+Desenvolvedora+de+Software)](https://git.io/typing-svg)
+  
+</div>
 
 <a href="https://github.com/juliabb/juliabb/blob/main/README-en.md" target="_blank"><p align="center">See in English <img src="https://media.istockphoto.com/photos/flag-of-england-picture-id854115776?k=20&m=854115776&s=612x612&w=0&h=Q9umhsdZxyIQbyU7rS1cXON304Dmo4uRbcgj46WbL5A=" alt="bandeira inglesa" height=20px width=30px> </a>
 
