@@ -68,3 +68,5 @@
 <a href="https://www.linkedin.com/in/julia-cruz-7aa339183/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Julia-Benedicto"></a> <a href="https://instagram.com/jbed.it" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Julia-Benedicto"></a> 
  
   ![Snake animation](https://github.com/juliabb/juliabb/blob/output/github-contribution-grid-snake.svg)
+  
+   <img align="center" width="150" src="https://lh3.googleusercontent.com/pw/AM-JKLUNe5TJN0uESaNN1RKUN6LvnWgIn3KaFg_zLr8fhXkYCQsSDhxg1gkw-PZPIY_Y4tWb5A9rd4O1bPNhe2cBq5U4OjejyTuQOIswmxpayHTDcRJTFGb9ef761JBmkmnxdr2hHxRx8I4g3LN6siHqTV_H_w=s500-no?authuser=0" />  
