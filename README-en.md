@@ -1,4 +1,8 @@
-<h1 align="center"><img src="https://ik.imagekit.io/dxszffuuh8/wave_tObQfF_Zn.gif" height=30px width=30px> Hello, my name is Julia Benedicto</h1>
+<div align="center"> 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=4000&color=7713F7&center=true&multiline=true&width=600&height=100&lines=Hi!!+My+name+is+Julia+Benedicto%2C;I+am+Software+Developer)](https://git.io/typing-svg)
+  
+</div>
 
 <a href="https://github.com/juliabb" target="_blank"><p align="center">Veja em português  <img src="https://imagepng.org/wp-content/uploads/2017/04/bandeira-do-brasil-1-1024x717.png" alt="bandeira brasileira" height=20px width=30px></a></p>
                  
