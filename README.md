@@ -1,6 +1,6 @@
 # Olá, eu sou a {Julia Benedicto} 👩‍💻
 
-<img align="right"  alt="JB" height="160" width="160" style="border-radius: 60px"  src="https://github.com/juliabb/juliabb/assets/68789655/570887a1-ebef-4892-a8a5-e318f0a411e7"> 
+<img align="right"  alt="JB" height="160" width="160" src="https://github.com/juliabb/juliabb/assets/68789655/570887a1-ebef-4892-a8a5-e318f0a411e7"> 
 
 - 👩‍💻 Analista de sistemas Jr
 - 💼 Na Pravaler, adquiri experiência significativa como Desenvolvedora Front-end Jr, onde explorei e aprimorei minhas habilidades em várias áreas, incluindo melhoria de desempenho e SEO. Durante meu tempo na empresa, contribuí para o aprimoramento do produto AmigoEdu um Marketplace, participando ativamente da criação de novos componentes e melhorias na interface do usuário.
