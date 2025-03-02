@@ -7,10 +7,10 @@ Sou **Analista de Sistemas Jr** e **Desenvolvedora Front-end Jr** apaixonada por
 
 
 - 💼 **Experiência Profissional**: Atuei como desenvolvedora Front-end Jr na **Pravaler**, contribuí para a melhoria de desempenho, SEO e aprimoramento do produto *AmigoEdu* — um Marketplace, desenvolvendo novos componentes e aperfeiçoando a interface.
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=juliabb&base=2000&label=Visitantes&color=blueviolet&style=for-the-badge" alt="juliabb" /> </p>
-
 - 🎓 **Formação Acadêmica**: Graduada em **Análise e Desenvolvimento de Sistemas** pelo Instituto Educacional Anhanguera.
 - 🎯 **Objetivo**: Em busca de novos desafios profissionais, onde eu possa crescer e aplicar minhas habilidades de desenvolvimento web.
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=juliabb&base=2000&label=Visitantes&color=blueviolet&style=for-the-badge" alt="juliabb" /> </p>
 
 ---
 
